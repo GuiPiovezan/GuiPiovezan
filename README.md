@@ -2,9 +2,9 @@
 ### Hey there, nice to see you here! 👋🏼
 
  <div>
-  <a href="https://github.com/GuiPiovezan">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuiPiovezan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiPiovezan&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/GuiPiovezan"></a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuiPiovezan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiPiovezan&layout=compact&langs_count=7&theme=dracula" />
 </div>
   
   ##
@@ -21,14 +21,14 @@
   
   
 <div>
-  <img width="50" height="50" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=ffffff">
-  <img width="50" height="50" src="https://icongr.am/devicon/typescript-original.svg?size=128&color=ffffff">
-  <img width="50" height="50" src="https://icongr.am/devicon/react-original.svg?size=128&color=ffffff" >
-  <img width="50" height="50" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=128&color=ffffff" >
-  <img width="50" height="50" src="https://icongr.am/devicon/mongodb-original-wordmark.svg?size=128&color=ffffff" >
+  <img width="50" height="50" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=ffffff" />
+  <img width="50" height="50" src="https://icongr.am/devicon/typescript-original.svg?size=128&color=ffffff" />
+  <img width="50" height="50" src="https://icongr.am/devicon/react-original.svg?size=128&color=ffffff" />
+  <img width="50" height="50" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=128&color=ffffff" />
+  <img width="50" height="50" src="https://icongr.am/devicon/mongodb-original-wordmark.svg?size=128&color=ffffff" />
   <img width="50" height="50" src="https://icongr.am/devicon/nodejs-original-wordmark.svg?size=128&color=ffffff" />
-  <img width="50" height="50" src="https://icongr.am/devicon/csharp-original.svg?size=128&color=currentColor">
-  <img width="50" height="50" src="https://icongr.am/devicon/python-original.svg?size=128&color=ffffff">
+  <img width="50" height="50" src="https://icongr.am/devicon/csharp-original.svg?size=128&color=currentColor" />
+  <img width="50" height="50" src="https://icongr.am/devicon/python-original.svg?size=128&color=ffffff" />
   <img widdth="50" height="50" src="https://icongr.am/devicon/android-original.svg?size=128&color=currentColor" />
   <img widdth="50" height="50" src="https://icongr.am/devicon/css3-original-wordmark.svg?size=128&color=currentColor" />
   <img widdth="50" height="50" src="https://icongr.am/devicon/dot-net-original-wordmark.svg?size=128&color=currentColor" />
@@ -47,11 +47,11 @@
   ##
 
 <div>
-Towards the next level ✔ contact me 👋<p />
+<p>Towards the next level ✔ contact me 👋<p />
   
-  <a href="https://www.linkedin.com/in/guilherme-aparecido-ferreira-piovezan-72b249149/" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.instagram.com/gui_piovezaan/" ><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="mailto:guilherme.piovezan00@gmail.com" ><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/guilherme-aparecido-ferreira-piovezan-72b249149/" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.instagram.com/gui_piovezaan/" ><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="mailto:guilherme.piovezan00@gmail.com" ><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   
 ![Snake animation](https://github.com/GuiPiovezan/GuiPiovezan/blob/output/github-contribution-grid-snake.svg)
 
